@@ -1,0 +1,44 @@
+2026-09-28 18:35:20 - [INFO] - --- NUEVA SESIÓN DEL DEMONIO INICIADA ---
+2026-09-28 18:35:20 - [INFO] - Proceso principal (A) iniciado con PID: 17660
+2026-09-28 18:35:22 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:22 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:22 - [INFO] - Proceso principal (A) iniciado con PID: 18672
+2026-09-28 18:35:24 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:24 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:24 - [INFO] - Proceso principal (A) iniciado con PID: 19660
+2026-09-28 18:35:26 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:26 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:26 - [INFO] - Proceso principal (A) iniciado con PID: 7680
+2026-09-28 18:35:28 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:28 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:28 - [INFO] - Proceso principal (A) iniciado con PID: 18092
+2026-09-28 18:35:30 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:30 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:30 - [INFO] - Proceso principal (A) iniciado con PID: 19672
+2026-09-28 18:35:32 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:32 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:32 - [INFO] - Proceso principal (A) iniciado con PID: 14624
+2026-09-28 18:35:34 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:34 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:34 - [INFO] - Proceso principal (A) iniciado con PID: 19556
+2026-09-28 18:35:36 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:36 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:36 - [INFO] - Proceso principal (A) iniciado con PID: 13360
+2026-09-28 18:35:38 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:38 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:38 - [INFO] - Proceso principal (A) iniciado con PID: 14668
+2026-09-28 18:35:40 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 9009).
+2026-09-28 18:35:40 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:35:40 - [INFO] - Proceso principal (A) iniciado con PID: 19264
+2026-09-28 18:35:41 - [INFO] - Señal de sistema SIGINT interceptada. Apagando demonio.
+2026-09-28 18:35:41 - [INFO] - Apagado del sistema completado con éxito.
+2026-09-28 18:39:03 - [INFO] - --- NUEVA SESIÓN DEL DEMONIO INICIADA ---
+2026-09-28 18:39:03 - [INFO] - Proceso principal (A) iniciado con PID: 21540
+2026-09-28 18:39:21 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 1).
+2026-09-28 18:39:21 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:39:21 - [INFO] - Proceso principal (A) iniciado con PID: 10144
+2026-09-28 18:39:29 - [ERROR] - ¡Falla detectada! Proceso A murió inesperadamente (Código: 1).
+2026-09-28 18:39:29 - [INFO] - Reiniciando Proceso A...
+2026-09-28 18:39:29 - [INFO] - Proceso principal (A) iniciado con PID: 10536
+2026-09-28 18:39:34 - [INFO] - Señal de sistema SIGINT interceptada. Apagando demonio.
+2026-09-28 18:39:34 - [INFO] - Apagado del sistema completado con éxito.
